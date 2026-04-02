@@ -1,0 +1,35 @@
+template: "onlinew-cv"
+skin: "classic"
+
+basic_info:
+
+  name: "Daniel Fabelo Santana"
+  tagline: "full Stack Developer student"
+  avatar: "¿?"
+
+  email: "daniel-fabelo-santana@outlook.es"
+  phone: "696-696-6969"
+  linkedin: "https://www.linkedin.com/in......"
+  github: "https://github.com/DannyCanario"
+  Instagram: "Dannyfb.st"
+
+
+education:
+  - "F.P. Transporte y logística"
+  
+
+languages:
+  english: "b1"
+
+
+experience:
+  - "Administrativo: Grupo Mazo (2017-2022)"
+  - "Administrativo: Delfin Lines [JSV] (2022-2026)"
+
+
+projects:
+  - "En desarrollo"
+
+
+skills:
+ - "En desarrollo"
